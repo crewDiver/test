@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Кафе Starbuzzz</title>
+<title>Кафе Starbuzzzzzzz</title>
 <style type="text/css">
 body {
 	background-color: #d2b48c;
